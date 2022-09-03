@@ -4,19 +4,19 @@ SdManager是一个可以在电脑端进行操作手机sd卡的一个可视化工
 
 ## Demo效果预览
 
-#### apk下载，安装后，手机和电脑保持同一个wifi即可
+#### 第1步，apk下载，安装后，手机和电脑保持同一个wifi即可
 
 <img src="image/sdmanger_load.jpg" width="120" height="120" alt="效果"/>
 
-#### 手机端效果
+#### 第2步，手机端开启服务，手机端效果
 
 <img src="image/sdmanger.jpg" width="200" alt="手机端效果"/>
 
-#### 电脑端效果
+#### 第3步，电脑端就可以愉快的操作了，电脑端效果
 
 <img src="image/sdmanger_pc.jpg" width="600" alt="电脑端效果"/>
 
-#### 感谢yanzhenjie开源的AndServer，如果没有它，是完不成这个功能的
+#### 最后感谢yanzhenjie开源的AndServer，如果没有它，是完不成这个功能的
 
 ```
 AndServer文档地址：https://yanzhenjie.com/AndServer/
@@ -27,7 +27,7 @@ AndServer文档地址：https://yanzhenjie.com/AndServer/
 
 微信搜索【Android干货铺】，或扫描下面二维码关注，查阅更多技术文章！
 
-<img src="iimage/abner.jpg" width="200px" />
+<img src="image/abner.jpg" width="200px" />
 
 ## License
 
